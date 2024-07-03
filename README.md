@@ -37,4 +37,4 @@ Forecasting analysis, Important KPI's such as forecast, Net Error, Absolute erro
 Display important KPIs , Presenting essential Trend charts , Donut charts and performance metrics. 
 
 Hope you find this insightful , love to know your thoughts.
-
+Link to intaractive dashboard-https://app.powerbi.com/view?r=eyJrIjoiOTFjZmQ0NWQtNmNjZC00YWEwLTg4YjMtZTIxNTlhMmI2ODRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
